@@ -1,8 +1,8 @@
 <div align="center"><img src="logo.png" /></div>
 
-# 个人介绍 :memo:
-苦逼大学牲一枚，目前就读于天津大学船舶与海洋工程系 :construction_worker:
-# 联系方式 📱
+# Self-Introduction :memo:
+苦逼研究牲一枚，目前就读于上海交通大学船建学院 :construction_worker:
+# How to reach me 📱
 :white_check_mark: QQ: 2313594637
 
 :white_check_mark: WX/TEL: +8618802242416
