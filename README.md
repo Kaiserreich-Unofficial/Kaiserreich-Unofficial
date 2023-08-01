@@ -11,5 +11,5 @@
 
 :white_check_mark: Email: 2313594637@qq.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiserreich-unofficial&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Kaiserreich-Unofficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiserreich-unofficial\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+[![Top Langs](github-readme-stats-kaiserreich.vercel.app/api/top-langs/?username=kaiserreich-unofficial&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Kaiserreich-Unofficial's GitHub stats](github-readme-stats-kaiserreich.vercel.app/api?username=kaiserreich-unofficial\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
