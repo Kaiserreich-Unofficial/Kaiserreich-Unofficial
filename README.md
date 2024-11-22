@@ -1,4 +1,3 @@
-<div align="center"><img src="logo.png" /></div>
 # Self-Introduction :memo:
 苦逼研究牲一枚，目前就读于上海交通大学船建学院 :construction_worker:
 # How to reach me 📱
