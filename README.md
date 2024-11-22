@@ -9,4 +9,4 @@
 
 :white_check_mark: Email: 2313594637@qq.com
 
-[![Top Langs](https://github-readme-stats-kaiserreich-unofficial.vercel.app/api/top-langs/?username=kaiserreich-unofficial&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kaiserreich-unofficial.vercel.app/api/top-langs/?username=kaiserreich-unofficial&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
